@@ -1,8 +1,8 @@
 import classes from './Item.module.css';
-import { useState } from 'react';
+import React, { useState } from 'react';
 import {getCoursesFromApiWithoutId} from '../Catalog'
 
-const Item = ({title, dataSection}: getCoursesFromApiWithoutId) => {
+const Item: React.FC<getCoursesFromApiWithoutId> = ({title, dataSection}: getCoursesFromApiWithoutId) => {
 
 	const [visible, setVisible] = useState(false);
 

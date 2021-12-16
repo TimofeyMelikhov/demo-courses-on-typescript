@@ -7,7 +7,7 @@ interface forCustomInputProps {
   inputValue: string
 }
 
-const CustomInput = ({ setValue, filterCourses, inputValue }: forCustomInputProps) => {
+const CustomInput: React.FC<forCustomInputProps> = ({ setValue, filterCourses, inputValue }: forCustomInputProps) => {
   let resultSearch = !filterCourses.length;
 
   let resetInput = (event:React.MouseEvent<HTMLInputElement>): void => {

@@ -18,7 +18,7 @@ export interface getCoursesFromApi {
 
 export type getCoursesFromApiWithoutId = Omit <getCoursesFromApi, 'id'>
 
-const Catalog = () => {
+const Catalog: React.FC = () => {
   const [courses, setCourses] = useState<getCoursesFromApi[]>([]);
   const [inputValue, setValue] = useState("");
 
