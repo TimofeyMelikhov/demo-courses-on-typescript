@@ -1,8 +1,8 @@
 import classes from './Item.module.css';
 import { useState } from 'react';
-import {getCoursesFromApi} from '../Catalog'
+import {getCoursesFromApiWithoutId} from '../Catalog'
 
-const Item = ({title, dataSection}: getCoursesFromApi) => {
+const Item = ({title, dataSection}: getCoursesFromApiWithoutId) => {
 
 	const [visible, setVisible] = useState(false);
 

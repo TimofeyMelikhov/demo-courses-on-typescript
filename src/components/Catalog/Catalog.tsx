@@ -4,21 +4,24 @@ import classes from "./Catalog.module.css";
 import CustomInput from '../CustomInput/CustomInput'
 import Item from "./Item/Item";
 
+export interface getCoursesFromApi {
+  id: number,
+  title: string,
+  dataSection: [
+    {
+      key: number,
+      section: string,
+      url: string
+    }
+  ]
+}
+
+export type getCoursesFromApiWithoutId = Omit <getCoursesFromApi, 'id'>
+
 const Catalog = () => {
   const [courses, setCourses] = useState<getCoursesFromApi[]>([]);
   const [inputValue, setValue] = useState("");
 
-  interface getCoursesFromApi {
-    id: number,
-    title: string,
-    dataSection: [
-      {
-        key: number,
-        section: string,
-        url: string
-      }
-    ]
-  }
 
   const getCourses = (): void => {
     axios
