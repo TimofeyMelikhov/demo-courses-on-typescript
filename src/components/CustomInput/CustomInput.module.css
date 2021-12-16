@@ -1,0 +1,53 @@
+.inputWrapper {
+	font-family: "Calibri Light";
+	position: relative;
+	width: 30%;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+.inputWrapper input:focus, .inputWrapper input:hover, .resetInput:hover {
+	opacity: 1;
+}
+
+.inputWrapper input {
+	box-sizing: border-box;
+	font-size: 16px;
+  border: none;
+	padding: 8px 0px 0px 25px;
+	border-bottom: 1px solid rgba(0,0,0,0.4);
+	outline: none;
+	color: #4d4d4d;
+	padding-bottom: 5px;
+	width: 100%;
+	opacity: 0.7;
+}
+.loupe {
+	background: url(../../images/m_focus.png) no-repeat;
+	background-size: 20px;
+	height: 20px;
+	width: 20px;
+	padding-right: 25px;
+	position: absolute;
+	top: 50%;
+	transform: translate(0%, -50%);
+	cursor: text;
+}
+
+.resetInput {
+	background: url(../../images/cross.png) no-repeat;
+	background-size: 20px;
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	top: 50%;
+	transform: translate(0%, -50%);
+	cursor: pointer;
+	right: 0;
+	opacity: 0.4;
+}
+
+.badSearch {
+	text-align: right;
+	color: red;
+	margin: 5px 0px;
+}

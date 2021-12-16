@@ -1,0 +1,15 @@
+.line {
+  border-bottom: 1px solid #4D4D4D;
+  color: #4D4D4D;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.line img {
+  width: 40px;
+  padding-right: 15px;
+}
+
+.line span {
+  vertical-align: 30%;
+}

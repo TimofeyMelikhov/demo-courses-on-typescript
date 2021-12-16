@@ -1,0 +1,903 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Информационная безопасность",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Информационная безопасность",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/inform_bez/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Эффективное планирование, организация и контроль деятельности подчиненных",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Эффективное планирование, организация и контроль деятельности подчиненных",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/effectivnoe_planirovanie/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Командное взаимодействие",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Основные понятия командного менеджмента",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/komandnoe_vzaimodeistvie/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Командный менеджмент. Формирование и развитие команд",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/komandnoe_vzaimodeistvie/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Эффективное взаимодействие в команде",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/komandnoe_vzaimodeistvie/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Использование потенциала команды в проектном управлении",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/komandnoe_vzaimodeistvie/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Математика и статистика в системе государственного и муниципального управления",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Элементарное математическое обеспечение",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/matematika_i_statistika/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Дескриптивная статистика в государственном и муниципальном управлении",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/matematika_i_statistika/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Основы корреляционно-регрессионного анализа",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/matematika_i_statistika/ftp/3/start.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Оценка компетенций",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Кейсы",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/ocenka_kompetencii/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Сторителлинг",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Что такое сторителлинг и зачем он нужен?",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/inform_bez/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Что такое история в сторителлинге?",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/storytelling/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Жанры истории",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/storytelling/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Оформление истории",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/storytelling/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Антинаркотическая деятельность",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Антинаркотическая деятельность",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/antinarko_deyatelnost/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Деловой стиль государственного гражданского служащего",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Служебная этика. Специфика формирования этики государственной службы",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/Delovoi_stil_ggs/ftp/part_1/story_html5.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Деловой этикет и деловой стиль на государственной службе",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/Delovoi_stil_ggs/ftp/Part_2/story_html5.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Одежда и внешний вид человека",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/Delovoi_stil_ggs/ftp/part_3/story_html5.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Оформление служебных помещений. Правила приема посетителей",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/storytelling/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Доступная среда",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Обеспечение условий доступности для инвалидов объектов и услуг",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/dostupnaya_sreda/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Электронная подпись",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Электронная подпись",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/elektronnaya_podpis/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Эмоциональный интеллект",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Эмоциональный интеллект",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/emocionalni_intellect/FTP/1/EMO_1_2018%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Эмоциональный интеллект",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/emocionalni_intellect/FTP/2/EMO_2_2018%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Эмоциональный интеллект",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/emocionalni_intellect/FTP/3/EMO_2017%20-%20Storyline%20output/story_html5.html"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Финансы государственных (муниципальных) учреждений",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. организационно-правовые основы функционирования системы государственных и муниципальных учреждений в РФ",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/finansi_uchrejdenii/ftp/FIN_tema1%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Источники финансирования государственных (муниципальных) учреждений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/finansi_uchrejdenii/ftp/FIN_tema2%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Финансовое планирование в автономных и бюджетных учреждениях",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/finansi_uchrejdenii/ftp/FIN_tema3%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Контроль за деятельностью бюджетных, казенных и автономных учреждений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/storytelling/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Инициативное бюджетирование как инструмент вовлечения граждан",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Инициативное бюджетирование как инструмент вовлечения граждан",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/iniciativnoe_budjetirovanie/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "История статистики в России",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. История развития статистики в России",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/istoriya_statistiki_v_rossii/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Контрактная система",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Законодательство Российской Федерации о контрактной системе в сфере закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Планирование и обоснование закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Осуществление закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Контракты",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Мониторинг, контроль, аудит и защита прав и интересов участников закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/5/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Раздел 6. Информационное обеспечение осуществления закупок для обеспечения нужд Санкт-Петербурга",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/6/start.html"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Методы оценки кандидатов при отборе на государственную и муниципальную службу",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Методы оценки кандидатов при отборе на государственную и муниципальную службу",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/058_metodi_ocenki_kandidatov/ftp/story_html5.html"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Национальная безопасность",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Национальная безопасность",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/nac_bezopasnost/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Оценка эффективности обработки управленческой информации",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Оценка эффективности обработки управленческой информации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/ocenka_effectivnosti_obrabotki_uprav_info/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Оценка качества государственных услуг",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Теоретико-правовые основы системы предоставления государственных и муниципальных услуг в РФ",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/ocenka_kachestva_gos_uslug/FTP/1/019_r1_2019%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Независимая система оценки качества предоставления государственных и муниципальных услуг: вопросы формирования и функционирования",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/ocenka_kachestva_gos_uslug/FTP/2/Ocenka_JULCHI_2%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Современные информационные технологии в системе оценки качества государственных и муниципальных услуг в Санкт-Петербурге",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/ocenka_kachestva_gos_uslug/FTP/3/019_r3_2019%20-%20Storyline%20output/story_html5.html"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Организация делопроизводства в органах власти Санкт-Петербурга",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Требования к оформлению документов",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/organizaciya_deloproizvodstva/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Виды бланков, документов, их изготавление и использование",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/organizaciya_deloproizvodstva/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Номенклатура дел",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/organizaciya_deloproizvodstva/ftp/3/start.html"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Основы анализа данных",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Математические основы обработки и анализа данных",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_analiza_dannih/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Приемы эффективной обработки данных в Microsoft Excel 2013",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_analiza_dannih/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Использование возможностей Microsoft Excel 2013 для визуализации и анализа данных (data mining)",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_analiza_dannih/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Применение Microsoft Excel 2013 для практического решения прикладных задач различного типа",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_analiza_dannih/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Основы государственной службы",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Государственная гражданская служба Российской Федерации. Особенности и отличия государственной гражданской службы Российской Федерации от трудовой деятельности",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_gos_slujbi/FTP/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Система органов государственной власти Санкт-Петербурга",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_gos_slujbi/FTP/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Правовой статус государственного гражданского служащего Российской Федерации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_gos_slujbi/FTP/3/start.html"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Основы Конституции Российской Федерации",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Основы Конституции Российской Федерации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/Osnovi_konstitucii_rf/FTP/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Основы работы пользователя с Adobe PhotoShop",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Знакомство с программой: интерфейс, основные инструменты. Операции с выделением объектов",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_rabotu_photoshop/FTP/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Инструменты рисования",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_rabotu_photoshop/FTP/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Работа со слоями. Текст",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_rabotu_photoshop/FTP/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Ретушь фотографии. Тоновая и цветовая коррекция изображения. Фильтры",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/osnovi_rabotu_photoshop/FTP/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Открытые данные",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Открытые данные",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/otkritie_dannie/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Персональные данные",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Персональные данные",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/personalnie_dannie/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Подготовка презентаций в органах власти",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. 7 базовых правил",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/podgotovka_prezentacii/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Поиск и принятие эффективных решений",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Модели принятия решений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poisk_i_prinyatie/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Индивидуальные особенности личности и их влияние на процесс принятия решений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poisk_i_prinyatie/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Особенности и инструменты выработки и принятия решений в группе",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poisk_i_prinyatie/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Методы повышения качества принимаемых решений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poisk_i_prinyatie/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Порядок рассмотрения обращений граждан",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Основные положения и требования закона",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poryadok_rassmotreniya/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Порядок рассмотрения отдельных обращений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poryadok_rassmotreniya/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Личный прием граждан",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poryadok_rassmotreniya/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Контроль за соблюдением порядка рассмотрения обращений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/poryadok_rassmotreniya/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Проектное управление в органах власти",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Концепция и методология проектного управления",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/proektnoe_upravlenie/ftp/part_1%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Процессы и интсрументы проектного управления",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/proektnoe_upravlenie/ftp/part_2%20-%20Storyline%20output/story_html5.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Организация проектной деятельности в Правительстве Российской Федерации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/proektnoe_upravlenie/ftp/part_3%20-%20Storyline%20output/story_html5.html"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Противодействие коррупции на государственной гражданской службе Российской Федерации",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Понятие коррупции. Правовые и организационные основы противодействия коррупции в Российской Федерации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/2/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Система связанных с государственной гражданской службой ограничений, запретов, процедур и обязанностей государственных гражданских служащих как фактор профилактики коррупционных правонарушений в исполнительных органах государственной власти",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/kontraktnaya_sistema/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Понятие конфликт интересов на государственной гражданской службе. Выявление, порядок предотвращения и урегулирования конфликта интересов",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Конфликт интересов в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд. Предотвращение и урегулирование конфликта интересов в сфере закупок товаров, работ, услуг",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Основания и порядок представления гражданами, претендующими на замещение должностей государственной службы и государственными служащими сведений о доходах, расходах, об имуществе и обязательствах имущественного характера",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/5/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Кейсы к разделу № 2",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/6/start.html"
+        },
+        {
+          "key": "7",
+          "section": "Кейсы к разделу № 4",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/protivodeistvie_korrupcii_GGS/ftp/7/start.html"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Деловой русский язык в органах власти и учреждениях",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Орфография",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/russkii_yazik_v_organah_vlasti/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Пунктуация",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/russkii_yazik_v_organah_vlasti/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Нормы языка. Правильное использование грамматических форм",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/russkii_yazik_v_organah_vlasti/ftp/4/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Нормы языка. Нормативное произношение и ударение",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/russkii_yazik_v_organah_vlasti/ftp/3/start.html"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Стратегическое управление в государственном секторе",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Система государственного стратегического управления",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/strat_uprav/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Нормативно-правовое регулирование стратегического планирования",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/strat_uprav/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Разработка, корректировка, мониторинг и контроль реализации документов стратегического планирования",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/strat_uprav/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Информационное обеспечение стратегического управления",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/strat_uprav/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Стресс-менеджмент",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Что такое стресс?",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Стресс: причины, признаки, факторы",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Профессиональные деформации и профессиональное здоровье",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Психофизиология стресса",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Способы преодоления стресса",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/5/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Раздел 6. Индивидуальное восприятие стресса",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/6/start.html"
+        },
+        {
+          "key": "7",
+          "section": "Раздел 7. Эффективное поведение в конфликтных ситуациях",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/7/start.html"
+        },
+        {
+          "key": "8",
+          "section": "Раздел 8. Профессиональное выгорание и его профилактика",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/stress_managment/ftp/8/start.html"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Тайм-менеджмент",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Управление временем",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/time_managment/FTP/ELC_Time_Man_2018%20-%20Storyline%20output/story_html5.html"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Управление государственными и муниципальными закупками",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Законодательство Российской Федерации о контрактной системе в сфере закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Планирование и обоснование закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Осуществление закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Контракты",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Мониторинг, контроль, аудит и защита прав и интересов участников закупок",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/5/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Раздел 6. Информационное обеспечение осуществления закупок для обеспечения нужд Санкт-Петербурга",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_gos_zakupkami/FTP/6/start.html"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Управление изменениями",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Общие понятия. Природа изменений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Личностный аспект в изменениях",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Организационный аспект в изменениях",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Руководство в условиях изменений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Проведение изменений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/5/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Раздел 6. Примеры успешного проведения изменений",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_izmeneniyami/ftp/6/start.html"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Управление конфликтами",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Природа и понятие конфликта",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_konf/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Технология разрешения конфликтов",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_konf/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Инструменты управления конфликтами",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_konf/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Профилактика конфликтов в организации",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_konf/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Управление ответственностью",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Ответственность как компетенция",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_otvetstven/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Делегирование ответственности",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_otvetstven/ftp/2/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Оценка и прогноз ответственности",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_otvetstven/ftp/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Повышение ответственности при контроле",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_otvetstven/ftp/4/start.html"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Управление проектами в органах власти: введение в тему",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Современные предпосылки эволюции систем управления. Сравнение гибких и классических методов управления",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_proectami_vvedenie_v_temu/ftp/1/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Agile: гибкие подходы к управлению",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/uprav_proectami_vvedenie_v_temu/ftp/2/start.html"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Вопросы профилактики терроризма",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Вопросы профилактики терроризма",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/voprosi_profilaktiki_terrorisma/ftp/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Вопросы противодействия экстремизму",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Вопросы противодействия экстремизму",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/voprosi_protivodeistviya_ekstrimismu/ftp/3/start.html"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Введение в должность государственного гражданского служащего Санкт-Петербурга",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Введение в должность государственного гражданского служащего Санкт-Петербурга",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvedenie_v_dolznost/1/start.html"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Вводный курс для новых сотрудников МФЦ",
+      "dataSection": [
+        {
+          "key": "1",
+          "section": "Раздел 1. Что такое МФЦ",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/8/start.html"
+        },
+        {
+          "key": "2",
+          "section": "Раздел 2. Работа с методическими пособиями",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/6/start.html"
+        },
+        {
+          "key": "3",
+          "section": "Раздел 3. Автоматизированное рабочее место сотрудника",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/3/start.html"
+        },
+        {
+          "key": "4",
+          "section": "Раздел 4. Оказание услуг юридическим лицам и индивидуальным предпринимателям",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/4/start.html"
+        },
+        {
+          "key": "5",
+          "section": "Раздел 5. Работа в системе МАИС",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/2/start.html"
+        },
+        {
+          "key": "6",
+          "section": "Раздел 6. Защита информации и персональных данных",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/7/start.html"
+        },
+        {
+          "key": "7",
+          "section": "Итоговый тест",
+          "url": "http://kurs.espbmrc.ru/courses/demo/2020/vvodni_curs_novih_sotr/FTP/5/start.html"
+        }
+      ]
+    }
+  ]
+}
