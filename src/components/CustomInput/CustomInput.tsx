@@ -1,9 +1,9 @@
 import React from "react";
 import classes from "./CustomInput.module.css";
-
+import {getCoursesFromApi} from '../Catalog/Catalog'
 interface forCustomInputProps {
   setValue (arg: string): void,
-  filterCourses: any[],
+  filterCourses: getCoursesFromApi[],
   inputValue: string
 }
 

@@ -22,7 +22,6 @@ const Catalog: React.FC = () => {
   const [courses, setCourses] = useState<getCoursesFromApi[]>([]);
   const [inputValue, setValue] = useState("");
 
-
   const getCourses = (): void => {
     axios
       .get<getCoursesFromApi[]>("http://localhost:3001/courses")
